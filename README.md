@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @asherk7
+  -  I'm an aspiring software engineer looking to pursue front-end development with Javascript, CSS, and HTML.
+- 🌱 I’m currently learning ...
+  - I'm learning Python right now to hone my coding skills
+  - I'm also currently pursuing a Software Engineering degree at McMaster University, expected to graduate April 2025. 
+- 📫 How to reach me ...
+  - You can reach me on [linkedin here](https://www.linkedin.com/in/asher-khan-9b2985218/)
