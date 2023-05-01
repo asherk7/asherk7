@@ -2,6 +2,6 @@
   -  I'm an aspiring software engineer looking to pursue data science with Python.
 - 🌱 I’m currently learning ...
   - I'm learning machine learning right now to build on my data science skills
-  - I'm also currently pursuing a Software Engineering degree at McMaster University, expected to graduate April 2026. 
+  - I'm also currently pursuing a Software Engineering degree at McMaster University, expected to graduate April 2025. 
 - 📫 How to reach me ...
   - You can reach me on [linkedin here](https://www.linkedin.com/in/asher-khan13)
