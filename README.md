@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asher Khan, a Software Engineering student at [McMaster University](https://www.mcmaster.ca/)
-- I'm interested in machine learning, full-stack development, devops, and data science
+- I'm interested in machine learning and data science
 - I'm currently building projects to expand my skills in each field
 - You can reach me on [linkedin here](https://www.linkedin.com/in/asher-khan13)
 
