@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Asher Khan
 
 - 🎓 I'm a 4th-year Software Engineering student at [McMaster University](https://www.mcmaster.ca/)  
-- 🧠 I'm passionate about Machine Learning, Data Science, and Deep Learning, and I'm currently exploring different Neural Networks and Transformers  
+- 🧠 I'm passionate about Machine Learning, Data Science, and Deep Learning, and I'm currently exploring different types of Neural Networks, Transformers, and their architectures  
 - 💼 Previously: SWE Co-op @ Ericsson, MLE Intern @ Blue Guardian  
 
 ### 🌱 Let’s Connect
