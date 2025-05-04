@@ -6,7 +6,7 @@
 
 ### 🌱 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/asher-khan-13)
+- 💼 [LinkedIn](https://www.linkedin.com/in/asher-khan13/)
 - 💻 [Website](https://asherkhan.ca)
 - 📬 Reach out via email: `masherk03@outlook.com`
 
