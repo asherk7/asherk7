@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Asher Khan
 
-- 🎓 I'm a 4th-year Software Engineering student at [McMaster University](https://www.mcmaster.ca/)  
-- 🧠 I'm passionate about Machine Learning, and I specialize in Computer Vision. Right now, I'm exploring the field of Computer Vision and learning more about the fundamental architectures and how they apply to industry applications. 
-- 💼 Previously: ML @ zofiQ, AI SWE Co-op @ Ericsson, MLE Intern @ Blue Guardian  
+- 🎓 I'm a 4th-year Software Engineering student at [McMaster University](https://www.mcmaster.ca/) and I'm passionate about Machine Learning
+- 🧠 I specialize in Computer Vision, and I'm exploring the research advancing the field, and how it applies to industry and applications 
+- 💼 Previously completed multiple internships in different fields of ML, such as Computer Vision and NLP (more info on my [LinkedIn](https://www.linkedin.com/in/asher-khan13/))
 
 ### 🌱 Let’s Connect
 
