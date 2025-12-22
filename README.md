@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Asher Khan
 
 - 🎓 I'm a 4th-year Software Engineering student at [McMaster University](https://www.mcmaster.ca/) and I'm passionate about Machine Learning
-- 🧠 I specialize in Computer Vision, and I'm exploring the research advancing the field, and how it applies to industry and applications 
-- 💼 Previously completed multiple internships in different fields of ML, such as Computer Vision and NLP (more info on my [LinkedIn](https://www.linkedin.com/in/asher-khan13/))
+- 🧠 I specialize in Computer Vision, and I'm exploring the research and industry applications of it
+- 💼 Previously completed multiple ML internships (more info on my [LinkedIn](https://www.linkedin.com/in/asher-khan13/))
 
 ### 🌱 Let’s Connect
 
@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherk7&layout=compact&theme=gotham&langs_count=8&hide=Jupyter%20Notebook" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asherk7&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherk7&layout=compact&theme=gotham&langs_count=8&hide=Jupyter%20Notebook" />
 </p>
 
