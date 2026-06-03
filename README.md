@@ -2,7 +2,7 @@
 - 🔧 Software Engineer focused on ML systems and LLMs, making models faster, smaller, and cheaper to run
 - 🎓 BEng Software Engineering, [McMaster University](https://www.mcmaster.ca/) (*summa cum laude*)
 - 🔬 Currently doing AI research at [Algoverse](https://algoverseairesearch.org/)
-- 🧠 Background in multimodal ML and deep learning
+- 🧠 Foundations across CV, multimodal, and deep learning
 
 ### 🌱 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/asher-khan13/)
