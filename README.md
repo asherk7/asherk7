@@ -7,7 +7,7 @@
 ### 🌱 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/asher-khan13/)
 - 💻 [Website](https://asherkhan.ca)
-- 📬 Reach out via email: `masherk03@outlook.com`
+- 📬 Reach out via email: `masherk03[at]outlook[dot]com`
 
 ### Preferred Tools and Technologies:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
